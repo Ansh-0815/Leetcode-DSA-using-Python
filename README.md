@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0136-single-number) |
 ## Bit Manipulation
 |  |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0066-plus-one) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3462-vowels-game-in-a-string](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/3462-vowels-game-in-a-string) |
 ## String Matching
