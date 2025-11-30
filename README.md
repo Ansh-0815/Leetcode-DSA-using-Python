@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0066-plus-one](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -63,4 +65,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0387-first-unique-character-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
