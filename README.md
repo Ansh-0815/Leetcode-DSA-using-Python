@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0387-first-unique-character-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/3462-vowels-game-in-a-string) |
 ## Math
 |  |
@@ -50,4 +51,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0258-add-digits) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
