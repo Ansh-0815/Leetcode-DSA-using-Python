@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0349-intersection-of-two-arrays) |
@@ -80,4 +81,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0349-intersection-of-two-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
