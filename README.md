@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0066-plus-one](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0258-add-digits) |
+| [0507-perfect-number](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0507-perfect-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3462-vowels-game-in-a-string](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/3462-vowels-game-in-a-string) |
 ## String Matching
