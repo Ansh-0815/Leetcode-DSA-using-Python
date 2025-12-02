@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0509-fibonacci-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3462-vowels-game-in-a-string](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/3462-vowels-game-in-a-string) |
 ## String Matching
@@ -86,4 +87,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
