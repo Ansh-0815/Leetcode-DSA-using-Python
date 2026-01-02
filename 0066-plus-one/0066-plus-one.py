@@ -7,4 +7,4 @@ class Solution:
                 return digits
             digits[i]=0
             i-=1
-        return [1]+digits        
+        return [1]+digits
