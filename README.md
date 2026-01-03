@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0509-fibonacci-number) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Recursion
 |  |
 | ------- |
