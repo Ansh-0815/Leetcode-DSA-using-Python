@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/1390-four-divisors) |
+| [1975-maximum-matrix-sum](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/1975-maximum-matrix-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -109,4 +110,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [1975-maximum-matrix-sum](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/1975-maximum-matrix-sum) |
+## Matrix
+|  |
+| ------- |
+| [1975-maximum-matrix-sum](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/1975-maximum-matrix-sum) |
 <!---LeetCode Topics End-->
