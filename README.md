@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/1975-maximum-matrix-sum) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0509-fibonacci-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/1390-four-divisors) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3462-vowels-game-in-a-string](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/3462-vowels-game-in-a-string) |
@@ -139,4 +141,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
