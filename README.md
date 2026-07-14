@@ -145,4 +145,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/1266-minimum-time-visiting-all-points) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
