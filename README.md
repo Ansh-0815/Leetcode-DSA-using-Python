@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0136-single-number) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ansh-0815/Leetcode-DSA-using-Python/tree/master/0242-valid-anagram) |
